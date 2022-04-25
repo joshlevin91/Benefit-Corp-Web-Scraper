@@ -1,1 +1,1 @@
-# Benefit-Corp-Web-Scraper
+# Benefit Corporation Web Scrapers
